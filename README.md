@@ -28,6 +28,10 @@
   11. php auto close tag
   12. phpfmt
   13. php debug
+  14. Indent-Rainbow
+  15. Material Icon Theme
+  16. Path Intellisense
+  17. Sublime Material Theme
    
 ## git commants
   1. clone repository for GitHub[Check this Site](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
