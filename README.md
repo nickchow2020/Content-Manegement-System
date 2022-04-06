@@ -10,7 +10,7 @@
 
 ## Installation
 
-  1. preferred to install MAMP for PHP easier to manage [Click here to Download](mamp.info/en/downloads/)
+  1. preferred to install MAMP for PHP easier to manage [Click here to Download](https://mamp.info/en/downloads/)
   2. install Git-Bash [Click here to Download](https://www.becomingads.com/o/gitbash)
   3. import cms.sql into myphpadmin
    
