@@ -36,3 +36,14 @@
 ## git commants
   1. clone repository for GitHub[Check this Site](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
   2. push back go Github[Check this Site](https://digitalthoughtdisruption.com/2020/09/09/clone-repository-push-changes-using-git-bash/)
+  3. 
+## Set Up Git:
+  1. git config --global user.name "Your Name"
+  2. git config --global user.email "youremail@domain.com"
+
+  ### other commands
+  1. git clone (url)
+  2. git add (file names)
+  3. git commit -m "(committed message)
+  4. git push -u origin master
+  5. git remote add origin master (url)ss
